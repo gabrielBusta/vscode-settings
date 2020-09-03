@@ -1,0 +1,206 @@
+{
+    "editor.renderWhitespace": "all",
+    "licenser.customTermsAndConditions": "These files is distributed on an \"AS IS\" BASIS, WITHOUT WARRANTIES\nOR CONDITIONS OF ANY KIND, either express or implied. See the License\nfor the specific language governing permissions and limitations under the License.\n\n© 2020 Amazon Web Services, In​c. or its affiliates. All Rights Reserved.\nThis AWS Content is provided subject to the\nterms of the AWS Customer Agreement available at\nhttp://aws.amazon.com/agreement or other written agreement between Customer\nand either Amazon Web Services, Inc. or Amazon Web Services\nEMEA SARL or both.",
+    "licenser.customHeader": "(c) 2020 Amazon.com, Inc. or its affiliates. All Rights Reserved.\n\nThis AWS Content is provided subject to the terms of the AWS Customer Agreement available at http://aws.amazon.com/agreement or other written agreement between Customer and either Amazon Web Services, Inc. or Amazon Web Services EMEA SARL or both.\n\nTHE SOFTWARE IS PROVIDED \"AS IS\", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,\nINCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A\nPARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT\nHOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION\nOF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE\nSOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
+    "licenser.license": "MIT",
+    "licenser.disableAutoHeaderInsertion": true,
+    "licenser.author": "Gabriel Bustamante",
+    "workbench.iconTheme": "vscode-icons",
+    "window.zoomLevel": 0,
+    "explorer.confirmDragAndDrop": false,
+    "python.analysis.logLevel": "Trace",
+    "python.linting.pylintEnabled": true,
+    "python.testing.pytestEnabled": true,
+    "python.terminal.activateEnvironment": false,
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext"
+    ],
+    "yaml.customTags": [
+        "!Transform mapping",
+        "!If",
+        "!Equals sequence",
+        "!FindInMap sequence",
+        "!GetAtt",
+        "!GetAZs",
+        "!ImportValue",
+        "!Join sequence",
+        "!Ref",
+        "!Select sequence",
+        "!Split sequence",
+        "!Sub",
+        "!Sub sequence"
+    ],
+    "workbench.colorTheme": "Atom One Light",
+    "oneDarkPro.italic": false,
+    "files.associations": {
+        "*.template": "yaml"
+    },
+    "python.linting.ignorePatterns": [
+        ".vscode/*.py",
+        "**/site-packages/**/*.py",
+        "Inventory_Scripts/*.py"
+    ],
+    "workbench.editorAssociations": [
+        {
+            "viewType": "default",
+            "filenamePattern": "*.xlsx"
+        }
+    ],
+    "terraform.languageServer": {
+        "external": true,
+        "args": [
+            "serve"
+        ]
+    },
+    "vsicons.associations.files": [
+        {
+            "icon": "backup",
+            "extensions": [
+                ".bak",
+                ".backup"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "config",
+            "extensions": [
+                ".config"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "config",
+            "extensions": [
+                "config"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "manifest",
+            "extensions": [
+                "pkg-info"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "manifest",
+            "extensions": [
+                "manifest.in"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "zip",
+            "extensions": [
+                ".egg",
+                ".whl"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "test",
+            "extensions": [
+                "test"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "host",
+            "extensions": [
+                "aws_hosts"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "shell",
+            "extensions": [
+                "userdata"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "apache",
+            "extensions": [
+                "authors"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "copying",
+            "extensions": [
+                "copying"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "text",
+            "extensions": [
+                "changes"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "text",
+            "extensions": [
+                "readme"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "text",
+            "extensions": [
+                "install"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "text",
+            "extensions": [
+                "news"
+            ],
+            "filename": true,
+            "format": "svg"
+        },
+        {
+            "icon": "text",
+            "extensions": [
+                ".P4Tool"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "text",
+            "extensions": [
+                ".dict"
+            ],
+            "format": "svg"
+        },
+        {
+            "icon": "caddy",
+            "extensions": [
+                "credentials"
+            ],
+            "filename": true,
+            "format": "svg"
+        }
+    ],
+    "vsicons.customIconFolderPath": "/Users/awsgab/Library/Application Support/VSCodium/User/",
+    "editor.detectIndentation": false,
+    "editor.formatOnSave": true
+}
