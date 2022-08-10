@@ -1,0 +1,19 @@
+{
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "redhat.telemetry.enabled": false,
+    "docker.languageserver.diagnostics.deprecatedMaintainer": "ignore",
+    "editor.renderWhitespace": "trailing",
+    "diffEditor.ignoreTrimWhitespace": false,
+    "[plaintext]": {
+        "editor.suggest.showSnippets": false,
+        "editor.suggest.showWords": false,
+        "editor.acceptSuggestionOnCommitCharacter": false,
+        "editor.acceptSuggestionOnEnter": "off"
+    },
+    "files.associations": {
+        "*.wsgi": "python"
+    },
+    "terminal.integrated.commandsToSkipShell": [
+        "-workbench.action.quickOpenView"
+    ]
+}
